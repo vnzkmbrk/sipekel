@@ -1,6 +1,6 @@
 <div class="page-header">
   <div class="breadcrumb"><a href="<?= site_url('admin/dashboard') ?>">Dashboard</a><span>/</span><span>Statistik</span></div>
-  <div class="page-title">Statistik Kelulusan</div>
+  <div class="page-title">Statistik Kelulusan SMK</div>
   <div class="page-subtitle">Visualisasi data kelulusan siswa tahun ini</div>
 </div>
 
