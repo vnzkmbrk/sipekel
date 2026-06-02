@@ -1,5 +1,5 @@
 # 🎓 Sistem Pengumuman Kelulusan SMK
-### SMK Panca Bhakti Rakit — Berbasis CodeIgniter 3
+### Berbasis CodeIgniter 3
 
 ---
 
@@ -273,10 +273,9 @@ smk_kelulusan/
 
 ## 📞 Informasi
 
-**SMK Panca Bhakti Rakit**  
 Sistem Pengumuman Kelulusan  
 Tahun Pelajaran 2024/2025
 
 ---
 
-*Dibuat dengan ❤️ menggunakan CodeIgniter 3*
+Dibuat dengan ❤️ oleh [Ivan Zaka Mubarok](https://github.com/vnzkmbrk) menggunakan CodeIgniter 3
