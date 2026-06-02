@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-$config['base_url'] = 'https://spk.smkpabhara.sch.id/'; // Auto-detect, or set manually: 'http://localhost/smk_kelulusan/'
+$config['base_url'] = '#'; // Auto-detect, or set manually: 'http://localhost/smk_kelulusan/'
 $config['index_page'] = '';
 $config['uri_protocol'] = 'REQUEST_URI';
 $config['url_suffix'] = '';
@@ -24,7 +24,7 @@ $config['log_file_permissions'] = 0644;
 $config['log_date_format'] = 'Y-m-d H:i:s';
 $config['error_views_path'] = '';
 $config['cache_path'] = '';
-$config['encryption_key'] = 'SMKPancaBhaktiRakit2024SecretKey!';
+$config['encryption_key'] = '';
 $config['sess_driver'] = 'files';
 $config['sess_cookie_name'] = 'smk_session';
 $config['sess_expiration'] = 7200;
