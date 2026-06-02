@@ -274,7 +274,7 @@ smk_kelulusan/
 ## 📞 Informasi
 
 Sistem Pengumuman Kelulusan  
-Tahun Pelajaran 2024/2025
+Tahun Pelajaran 2025/2026
 
 ---
 
