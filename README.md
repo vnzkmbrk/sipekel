@@ -163,7 +163,7 @@ NISN,Nama Siswa,Tempat Lahir,Tanggal Lahir (YYYY-MM-DD),Kelas,Jurusan,Status Kel
 1. Buka halaman utama
 2. Tunggu hingga jadwal pengumuman tiba (countdown otomatis)
 3. Masukkan NISN (10 digit angka)
-4. Lihat hasil: **LULUS** atau **LULUS BERSYARAT**
+4. Lihat hasil: **LULUS** atau **BERSYARAT**
 5. Cetak surat/bukti jika diperlukan
 
 ---
@@ -175,7 +175,7 @@ NISN,Nama Siswa,Tempat Lahir,Tanggal Lahir (YYYY-MM-DD),Kelas,Jurusan,Status Kel
 - 🔒 Akses dikunci otomatis sebelum jadwal
 - 📱 Responsive mobile & desktop
 - 🎓 Tampilan hasil lulus dengan animasi
-- 📋 Undangan resmi untuk Lulus Bersyarat
+- 📋 Undangan resmi untuk Bersyarat
 - 🖨️ Fitur cetak surat/bukti kelulusan
 
 ### Panel Admin
